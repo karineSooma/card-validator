@@ -1,0 +1,26 @@
+{
+  "name": "card-validator",
+  "version": "1.0.0",
+  "description": "<p><strong>Esta biblioteca se destina a validação de cpf.</strong> Na versão atual é capaz de identificar se o número digitado é válido ou não.</p><br>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karineSooma/card-validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karineSooma/card-validator/issues"
+  },
+  "homepage": "https://github.com/karineSooma/card-validator#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
