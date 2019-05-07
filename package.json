@@ -1,7 +1,7 @@
 {
   "name": "cardvalidator-ks",
   "version": "1.0.0",
-  "description": "",
+  "description": "This library is intended to validate a card number.",
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
