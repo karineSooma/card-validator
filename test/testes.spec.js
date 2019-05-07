@@ -8,7 +8,7 @@ describe('Card validator', () => {
       expect(cardValidatorTest.cardValidator('')).to.be.false; 
     }); 
     it('string has less than sixteen digits', () => {
-      expect(cardValidatorTest.cardValidator('9876543210')).to.be.false; 
+      expect(cardValidatorTest.cardValidator('121212121212121')).to.be.false; 
     });
   }); 
 }); 
