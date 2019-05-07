@@ -1,7 +1,7 @@
 {
-  "name": "card-validator",
+  "name": "cardvalidator-ks",
   "version": "1.0.0",
-  "description": "<p><strong>Esta biblioteca se destina a validação de cpf.</strong> Na versão atual é capaz de identificar se o número digitado é válido ou não.</p><br>",
+  "description": "",
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
