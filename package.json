@@ -11,7 +11,7 @@
     "nyc": "^14.1.0"
   },
   "scripts": {
-    "test": "./node_modules/nyc/bin/nyc.js mocha"
+    "test": "nyc mocha"
   },
   "repository": {
     "type": "git",
